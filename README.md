@@ -12,9 +12,6 @@ Paper list about adopting machine learning techniques into data management tasks
 
 * Database Learning: Toward a Database that Becomes Smarter Every Time. SIGMOD 2017, 587-602. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064013) &nbsp;[Project](http://verdictdb.org/)
 
-* Schema Independent Relational Learning.SIGMOD 2017, 929-944. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035923)
-
-* Model-free Control for Distributed Stream Data Processing using Deep Reinforcement Learning. PVLDB 11(6), 705-718 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p705-li.pdf)
 
 ## <a name='scale-ml'> Scalable Machine Learning Algorithms
 * Sketching Linear Classifiers over Data Streams. SIGMOD 2018: 757-772.  &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196930)&nbsp;[Code](https://github.com/stanford-futuredata/wmsketch)
@@ -34,21 +31,29 @@ Paper list about adopting machine learning techniques into data management tasks
 * LDA*: A Robust and Large-scale Topic Modeling System. PVLDB 10(11), 1406-1417 (2017)&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1406-yu.pdf)
 
 * Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers? PVLDB 11(3), 366-379 (2017)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p366-shah.pdf)
+
+* Learning Linear Regression Models over Factorized Joins. SIGMOD 2016, 3-18.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2882939)
+
   
 ## <a name='ml-sys'> Machine Learning Platforms and Benchmarking
 * MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis. SIGMOD 2018, 1285-1300.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196934)
   
 * MLBench: Benchmarking Machine Learning Services Against Human Experts. PVLDB 11(10), 1220-1232 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1220-liu.pdf)
-  
-* Data Synthesis based on Generative Adversarial Networks. PVLDB 11(10), 1071-1083 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1071-park.pdf)
 
 * Ease.ml: Towards Multi-tenant Resource Sharing for Machine Learning Workloads. PVLDB 11(5), 607-620 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
 
 * Snorkel: Rapid Training Data Creation with Weak Supervision. PVLDB 11(3), 269-282 (2017)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p269-ratner.pdf)
 
-Also papers published in data management venues regarding to particular tasks, such as knowledge discovery and information extraction, are also included here, since they are also closely related to machine learning issues. You can also find more related papers in more related venues like KDD and WWW.
-
 ## <a name='ml-app'> Specific Applications
+  
+* Schema Independent Relational Learning.SIGMOD 2017, 929-944. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035923)
+
+* Data Synthesis based on Generative Adversarial Networks. PVLDB 11(10), 1071-1083 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1071-park.pdf)
+
+* Model-free Control for Distributed Stream Data Processing using Deep Reinforcement Learning. PVLDB 11(6), 705-718 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p705-li.pdf)  
+ 
+Note: We also include papers published in data management venues regarding to particular tasks, such as knowledge discovery and information extraction here, since they are closely related to machine learning issues. You can find more related papers in more related venues like KDD and WWW.  
+
 ### <a name='kbc'> Knowledge Base
 * Fonduer: Knowledge Base Construction from Richly Formatted Data. SIGMOD 2018, 1301-1316.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3183729)&nbsp;[Code](https://github.com/HazyResearch/fonduer)
   
@@ -56,12 +61,18 @@ Also papers published in data management venues regarding to particular tasks, s
 
 * Query-Driven On-The-Fly Knowledge Base Construction. PVLDB 11(1), 66-79 (2017)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p66-nguyen.pdf)
 
+* Ontological Pathfinding. SIGMOD 2016, 835-846.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2882954)
+
 * Knowledge Exploration using Tables on the Web. PVLDB 10(3), 193-204 (2016)&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p193-chirigati.pdf)
 
 ### <a name='info-ext'> Information Extraction
 * CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web. PVLDB 11(10), 1084-1096 (2018)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1084-lockard.pdf)
   
 * Holistic Query Evaluation over Information Extraction Pipelines. PVLDB 11(2), 217-229 (2017)&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p217-ioannou.pdf)
+
+* Extracting Databases from Dark Data with DeepDive. SIGMOD 2016, 847-859.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2904442)
+
+* Potential and Pitfalls of Domain-Specific Information Extraction at Web Scale. SIGMOD 2016, 759-771.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2903736)
   
 ### <a name='entity'> Entity Matching and Resolution
 * Deep Learning for Entity Matching: A Design Space Exploration. SIGMOD 2018, 19-34. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196926) &nbsp;[Project](https://sites.google.com/site/anhaidgroup/projects/magellan)
@@ -73,6 +84,8 @@ Also papers published in data management venues regarding to particular tasks, s
 * Waldo: An Adaptive Human Interface for Crowd Entity Resolution. SIGMOD Conference 2017, 1133-1148. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035931)
 
 * In Search of an Entity Resolution OASIS: Optimal Asymptotic Sequential Importance Sampling. PVLDB 10(11), 1322-1333 (2017)&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1322-rubinstein.pdf)
+
+* Generating Preview Tables for Entity Graphs. SIGMOD 2016, 1797-1811. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2915221)
 
 * Comparative Analysis of Approximate Blocking Techniques for Entity Resolution. PVLDB 9(9), 684-695 (2016)&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p684-papadakis.pdf)
 
