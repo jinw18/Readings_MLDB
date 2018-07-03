@@ -1,7 +1,7 @@
 # Readings_MLDB
 Paper list about adopting machine learning techniques into data management tasks. Mainly consider ones published in top data management venues.
 
-## <a name='ml-in-db'> Machine Learning in Database Management 
+## <a name='ml-in-db'> Machine Learning in Database System
 * The Case for Learned Index Structures. SIGMOD 2018: 489-504. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196909)
   
 * Query-based Workload Forecasting for Self-Driving Database Management Systems. SIGMOD 2018, 631-645. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196908)&nbsp;[Code](https://github.com/malin1993ml/QueryBot5000)
