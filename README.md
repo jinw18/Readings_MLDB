@@ -2,11 +2,17 @@
 Paper list about adopting machine learning techniques into data management tasks. Mainly consider ones published in top data management venues.
 
 ## <a name='ml-in-db'> Machine Learning in Database System
+* Learning State Representations for Query Optimization with Deep Reinforcement Learning. arXiv:1803.08604  &nbsp;[Paper](https://arxiv.org/abs/1803.08604) 
+
+* Learning to Optimize Join Queries With Deep Reinforcement Learning. arXiv:1808.03196 &nbsp;[Paper](https://arxiv.org/abs/1808.03196) &nbsp; [Blog](https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/)
+
 * The Case for Learned Index Structures. SIGMOD 2018: 489-504. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196909)
   
 * Query-based Workload Forecasting for Self-Driving Database Management Systems. SIGMOD 2018, 631-645. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196908)&nbsp;[Code](https://github.com/malin1993ml/QueryBot5000)
 
 * Automatic Database Management System Tuning Through Large-scale Machine Learning. SIGMOD 2017, 1009-1024.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064029)&nbsp;[Code](https://github.com/cmu-db/ottertune)
+
+* Learning Memory Access Patterns. ICML 2018: 1924-1933.&nbsp;[Paper](http://proceedings.mlr.press/v80/hashemi18a.html)
 
 * Self-Driving Database Management Systems. CIDR 2017. &nbsp;[Paper](http://cidrdb.org/cidr2017/papers/p42-pavlo-cidr17.pdf)
 
