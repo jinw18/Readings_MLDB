@@ -2,6 +2,8 @@
 Paper list about adopting machine learning techniques into data management tasks. Mainly consider ones published in top data management venues.
 
 ## <a name='ml-in-db'> Machine Learning in Database System
+* A-Tree: A Bounded Approximate Index Structure. 	arXiv:1801.10207  &nbsp;[Paper](https://arxiv.org/abs/1801.10207)
+  
 * Learning State Representations for Query Optimization with Deep Reinforcement Learning. arXiv:1803.08604  &nbsp;[Paper](https://arxiv.org/abs/1803.08604) 
 
 * Learning to Optimize Join Queries With Deep Reinforcement Learning. arXiv:1808.03196 &nbsp;[Paper](https://arxiv.org/abs/1808.03196) &nbsp; [Blog](https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/)
