@@ -31,6 +31,8 @@ Paper list about adopting machine learning techniques into data management tasks
 
 * Scalable Training of Hierarchical Topic Models. PVLDB 11(7), 826-839, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p826-chen.pdf)
 
+* Learning Graphical Models from a Distributed Stream. 725-736, ICDE 2018. &nbsp;[Paper](https://ieeexplore.ieee.org/document/8509292)
+
 * Scalable Kernel Density Classification via Threshold-Based Pruning. SIGMOD 2017, 945-959.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064035)
 
 * The BUDS Language for Distributed Bayesian Machine Learning. SIGMOD 2017, 961-976.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035937)
@@ -40,6 +42,8 @@ Paper list about adopting machine learning techniques into data management tasks
 * LDA*: A Robust and Large-scale Topic Modeling System. PVLDB 10(11), 1406-1417, 2017. &nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1406-yu.pdf)
 
 * Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers? PVLDB 11(3), 366-379, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p366-shah.pdf)
+
+* Modeling Scalability of Distributed Machine Learning. 1249-1254, ICDE 2017. &nbsp;[Paper](https://ieeexplore.ieee.org/document/7930064)
 
 * Learning Linear Regression Models over Factorized Joins. SIGMOD 2016, 3-18.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2882939)
 
@@ -62,4 +66,19 @@ Paper list about adopting machine learning techniques into data management tasks
 
 * Snorkel: Rapid Training Data Creation with Weak Supervision. PVLDB 11(3), 269-282, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p269-ratner.pdf)
   
+## <a name='ml-sys'> Machine Learning System  
   
+* Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018: 595-610. &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/xiao)
+
+* PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems. OSDI 2018: 611-626. &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/lee)
+
+* Ray: A Distributed Framework for Emerging AI Applications. OSDI 2018: 561-577. &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/moritz)
+
+* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning. OSDI 2018: 578-594.  &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/chen)
+
+* TensorFlow: A System for Large-Scale Machine Learning. OSDI 2016: 265-283. &nbsp;[Paper](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/abadi)
+
+* Scaling Distributed Machine Learning with the Parameter Server. OSDI 2014: 583-598. &nbsp;[Paper](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu)
+
+* Project Adam: Building an Efficient and Scalable Deep Learning Training System. OSDI 2014: 571-582. &nbsp;[Paper](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/chilimbi)
+
