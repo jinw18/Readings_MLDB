@@ -31,8 +31,6 @@ Paper list about adopting machine learning techniques into data management tasks
 
 * Scalable Training of Hierarchical Topic Models. PVLDB 11(7), 826-839, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p826-chen.pdf)
 
-* Learning Graphical Models from a Distributed Stream. 725-736, ICDE 2018. &nbsp;[Paper](https://ieeexplore.ieee.org/document/8509292)
-
 * Scalable Kernel Density Classification via Threshold-Based Pruning. SIGMOD 2017, 945-959.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064035)
 
 * The BUDS Language for Distributed Bayesian Machine Learning. SIGMOD 2017, 961-976.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035937)
@@ -43,11 +41,19 @@ Paper list about adopting machine learning techniques into data management tasks
 
 * Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers? PVLDB 11(3), 366-379, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p366-shah.pdf)
 
-* Modeling Scalability of Distributed Machine Learning. 1249-1254, ICDE 2017. &nbsp;[Paper](https://ieeexplore.ieee.org/document/7930064)
+* NoScope: Optimizing Deep CNN-Based Queries over Video Streams at Scale. PVLDB 10(11): 1586-1597, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1586-kang.pdf)
+
+* KeystoneML: Optimizing pipelines for large-scale advanced analytics. In ICDE, pages 535–546, 2017.&nbsp;[Paper](https://ieeexplore.ieee.org/document/7930005)
 
 * Learning Linear Regression Models over Factorized Joins. SIGMOD 2016, 3-18.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2882903.2882939)
 
+* Compressed Linear Algebra for Large-Scale Machine Learning. PVLDB 9(12): 960-971, 2016.&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p960-elgohary.pdf)
+
+* SystemML: Declarative Machine Learning on Spark. PVLDB 9(13): 1425-1436, 2016.&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)
+
 * WarpLDA: a Cache Efficient O(1) Algorithm for Latent Dirichlet Allocation. PVLDB 9(10): 744-755, 2016. &nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p744-chen.pdf)
+
+* Learning Generalized Linear Models Over Normalized Data. SIGMOD 2015: 1969-1984. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2723372.2723713)
 
   
 ## <a name='ml-app'> Machine Learning Toolkits and Specific Applications
