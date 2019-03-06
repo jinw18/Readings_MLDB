@@ -1,11 +1,12 @@
 # Application and Systems
 
 ## <a name='ml-app'> Machine Learning Toolkits and Specific Applications
-* MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis. SIGMOD 2018, 1285-1300.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196934)
+* MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis. SIGMOD 2018: 1285-1300.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196934)
 
-* Schema Independent Relational Learning. SIGMOD 2017, 929-944. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035923)
+* Schema Independent Relational Learning. SIGMOD 2017: 929-944. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035923)
 
 * Snuba: Automating Weak Supervision to Label Training Data. PVLDB 12(3), 223-236, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p223-varma.pdf)
+
 * MLBench: Benchmarking Machine Learning Services Against Human Experts. PVLDB 11(10), 1220-1232, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1220-liu.pdf)
 
 * Data Synthesis based on Generative Adversarial Networks. PVLDB 11(10), 1071-1083, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1071-park.pdf)
@@ -13,6 +14,8 @@
 * Model-free Control for Distributed Stream Data Processing using Deep Reinforcement Learning. PVLDB 11(6), 705-718, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p705-li.pdf)
 
 * Ease.ml: Towards Multi-tenant Resource Sharing for Machine Learning Workloads. PVLDB 11(5), 607-620, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
+
+* NoScope: Optimizing Deep CNN-Based Queries over Video Streams at Scale. PVLDB 10(11): 1586-1597, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1586-kang.pdf)
 
 * Snorkel: Rapid Training Data Creation with Weak Supervision. PVLDB 11(3), 269-282, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p269-ratner.pdf)
   
