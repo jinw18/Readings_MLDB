@@ -4,7 +4,17 @@ Paper list about adopting machine learning techniques into data management tasks
 For stand alone ML Systems, please refer to [Application](app.md).
 
 ## <a name='ml-in-db'> Machine Learning in Database System
-* A-Tree: A Bounded Approximate Index Structure. 	arXiv:1801.10207  &nbsp;[Paper](https://arxiv.org/abs/1801.10207)
+* DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models.   SIGMOD 2019. 
+  
+* AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.  SIGMOD 2019.
+
+* BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees.   SIGMOD 2019.&nbsp;[Paper(arxiv)](https://arxiv.org/abs/1812.10564)
+  
+* FITing-Tree: A Data-aware Index Structure. 	SIGMOD 2019.  &nbsp;[Paper(arxiv)](https://arxiv.org/abs/1801.10207)
+
+* An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. 	SIGMOD 2019.
+
+* SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning. 	SIGMOD 2019.
   
 * Learning State Representations for Query Optimization with Deep Reinforcement Learning. arXiv:1803.08604  &nbsp;[Paper](https://arxiv.org/abs/1803.08604) 
 
@@ -59,6 +69,8 @@ For stand alone ML Systems, please refer to [Application](app.md).
 ### Linear Algebra
 * Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data. SIGMOD 2019.
 
+* Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning. PVLDB 12(7): 807 - 821, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p807-wang.pdf)
+
 * A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics. PVLDB 11(13): 2168-2182, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf)&nbsp;[Project](https://adalabucsd.github.io/slab.html)
 
 * Towards Linear Algebra over Normalized Data. PVLDB 10(11): 1214-1225, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1214-chen.pdf)
@@ -72,6 +84,8 @@ For stand alone ML Systems, please refer to [Application](app.md).
 * Exploiting Matrix Dependency for Efficient Distributed Matrix Computation. SIGMOD 2015: 93-105.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2723372.2723712)
 
 ### Relational DBMS
+* Declarative Recursive Computation on an RDBMS. PVLDB 12(7): 822 - 835. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p822-jankov.pdf)
+
 * In-Database Learning with Sparse Tensors.  PODS 2018: 325-340.  &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3196959.3196960)
 * ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation. PVLDB 12(4), 348-361, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p348-kara.pdf)
 
