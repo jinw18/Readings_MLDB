@@ -19,7 +19,8 @@
 
 * Snorkel: Rapid Training Data Creation with Weak Supervision. PVLDB 11(3), 269-282, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p269-ratner.pdf)
   
-## <a name='ml-sys'> Machine Learning System  
+## <a name='ml-sys'> Machine Learning System
+* DeepBase: Deep Inspection of Neural Networks. SIGMOD 2019. &nbsp;[Paper (arxiv)](https://arxiv.org/abs/1808.04486) 
   
 * Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018: 595-610. &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/xiao)
 
