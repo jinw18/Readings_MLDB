@@ -7,8 +7,6 @@ For stand alone ML Systems, please refer to [Application](app.md).
 * DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models.   SIGMOD 2019. 
   
 * AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.  SIGMOD 2019.
-
-* BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees.   SIGMOD 2019.&nbsp;[Paper(arxiv)](https://arxiv.org/abs/1812.10564)
   
 * FITing-Tree: A Data-aware Index Structure. 	SIGMOD 2019.  &nbsp;[Paper(arxiv)](https://arxiv.org/abs/1801.10207)
 
@@ -36,8 +34,10 @@ For stand alone ML Systems, please refer to [Application](app.md).
 
 ## <a name='scale-ml'> Large Scale Machine Learning
 
-### System based on Spark
+### System for Big Data: Spark and SystemML 
 * Helix: Holistic Optimization for Accelerating Iterative Machine Learning. PVLDB 12(4), 446-460, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p446-xin.pdf)
+
+* On Optimizing Operator Fusion Plans for Large-Scale Machine Learning in SystemML. PVLDB 11(12): 1755-1768, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1755-boehm.pdf)
 
 * A Cost-based Optimizer for Gradient Descent Optimization. SIGMOD 2017, 977-992.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064042)
 
@@ -69,9 +69,10 @@ For stand alone ML Systems, please refer to [Application](app.md).
 * Learning Generalized Linear Models Over Normalized Data. SIGMOD 2015: 1969-1984. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2723372.2723713)
 
 ### Relational DBMS
-* Declarative Recursive Computation on an RDBMS. PVLDB 12(7): 822 - 835. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p822-jankov.pdf)
+* Declarative Recursive Computation on an RDBMS. PVLDB 12(7): 822-835, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p822-jankov.pdf)
 
 * In-Database Learning with Sparse Tensors.  PODS 2018: 325-340.  &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3196959.3196960)
+
 * ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation. PVLDB 12(4), 348-361, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p348-kara.pdf)
 
 * The BUDS Language for Distributed Bayesian Machine Learning. SIGMOD 2017, 961-976.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035937)
@@ -97,3 +98,11 @@ For stand alone ML Systems, please refer to [Application](app.md).
 * WarpLDA: a Cache Efficient O(1) Algorithm for Latent Dirichlet Allocation. PVLDB 9(10): 744-755, 2016. &nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p744-chen.pdf)
 
 * Exploiting Matrix Dependency for Efficient Distributed Matrix Computation. SIGMOD 2015: 93-105.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2723372.2723712)
+
+### Training Data Acquisition
+
+* BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees. SIGMOD 2019.&nbsp;[Paper(arxiv)](https://arxiv.org/abs/1812.10564)
+
+* Snuba: Automating Weak Supervision to Label Training Data. PVLDB 12(3), 223-236, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p223-varma.pdf)
+
+* Snorkel: Rapid Training Data Creation with Weak Supervision. PVLDB 11(3), 269-282, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p269-ratner.pdf)
