@@ -1,8 +1,11 @@
 # Application and Systems
 
 ## <a name='ml-app'> Machine Learning Toolkits and Specific Applications
+  
 * Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations. SIGMOD 2019. &nbsp;[Paper](https://adalabucsd.github.io/papers/TR_2019_Krypton.pdf)
   
+* DeepBase: Deep Inspection of Neural Networks. SIGMOD 2019. &nbsp;[Paper (arxiv)](https://arxiv.org/abs/1808.04486)
+
 * MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis. SIGMOD 2018: 1285-1300.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196934)
 
 * Schema Independent Relational Learning. SIGMOD 2017: 929-944. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035923)
@@ -18,8 +21,7 @@
 * NoScope: Optimizing Deep CNN-Based Queries over Video Streams at Scale. PVLDB 10(11): 1586-1597, 2017.&nbsp;[Paper](http://www.vldb.org/pvldb/vol10/p1586-kang.pdf)
   
 ## <a name='ml-sys'> Machine Learning System
-* DeepBase: Deep Inspection of Neural Networks. SIGMOD 2019. &nbsp;[Paper (arxiv)](https://arxiv.org/abs/1808.04486) 
-  
+ 
 * Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018: 595-610. &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/xiao)
 
 * PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems. OSDI 2018: 611-626. &nbsp;[Paper](https://www.usenix.org/conference/osdi18/presentation/lee)
