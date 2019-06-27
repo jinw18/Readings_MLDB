@@ -4,15 +4,15 @@ Paper list about adopting machine learning techniques into data management tasks
 For stand alone ML Systems, please refer to [Application](app.md).
 
 ## <a name='ml-in-db'> Machine Learning in Database System
-* DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models.   SIGMOD 2019. 
+* DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models.  SIGMOD 2019, 1553-1570. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3324958)
   
-* AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.  SIGMOD 2019.
+* AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.  SIGMOD 2019, 1241-1258. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3324957)
   
-* FITing-Tree: A Data-aware Index Structure. 	SIGMOD 2019.  &nbsp;[Paper(arxiv)](https://arxiv.org/abs/1801.10207)
+* FITing-Tree: A Data-aware Index Structure. SIGMOD 2019,1189-1206.  &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3319860)
 
-* An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. 	SIGMOD 2019.
+* An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019, 415-432. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300085)
 
-* SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning. 	SIGMOD 2019.
+* SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning. 	SIGMOD 2019, 1153-1170. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300088)
   
 * Learning State Representations for Query Optimization with Deep Reinforcement Learning. arXiv:1803.08604  &nbsp;[Paper](https://arxiv.org/abs/1803.08604) 
 
@@ -23,7 +23,7 @@ For stand alone ML Systems, please refer to [Application](app.md).
   
 * Query-based Workload Forecasting for Self-Driving Database Management Systems. SIGMOD 2018, 631-645. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196908)&nbsp;[Code](https://github.com/malin1993ml/QueryBot5000)
 
-* Automatic Database Management System Tuning Through Large-scale Machine Learning. SIGMOD 2017, 1009-1024.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064029)&nbsp;[Code](https://github.com/cmu-db/ottertune)
+* Automatic Database Management System Tuning Through Large-scale Machine Learning. SIGMOD 2017, 1009-1024. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064029)&nbsp;[Code](https://github.com/cmu-db/ottertune)
 
 * Learning Memory Access Patterns. ICML 2018: 1924-1933.&nbsp;[Paper](http://proceedings.mlr.press/v80/hashemi18a.html)
 
@@ -39,9 +39,9 @@ For stand alone ML Systems, please refer to [Application](app.md).
 
 * On Optimizing Operator Fusion Plans for Large-Scale Machine Learning in SystemML. PVLDB 11(12): 1755-1768, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1755-boehm.pdf)
 
-* A Cost-based Optimizer for Gradient Descent Optimization. SIGMOD 2017, 977-992.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064042)
+* A Cost-based Optimizer for Gradient Descent Optimization. SIGMOD 2017, 977-992. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064042)
 
-* KeystoneML: Optimizing pipelines for large-scale advanced analytics. ICDE 2017: 535–546.&nbsp;[Paper](https://ieeexplore.ieee.org/document/7930005)&nbsp;[Project](http://keystone-ml.org/)
+* KeystoneML: Optimizing pipelines for large-scale advanced analytics. ICDE 2017: 535–546. &nbsp;[Paper](https://ieeexplore.ieee.org/document/7930005)&nbsp;[Project](http://keystone-ml.org/)
 
 * SystemML: Declarative Machine Learning on Spark. PVLDB 9(13): 1425-1436, 2016.&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)&nbsp;[Project](https://systemml.apache.org/)
 
@@ -49,16 +49,16 @@ For stand alone ML Systems, please refer to [Application](app.md).
 
 ### Compression
 
-* Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent. SIGMOD 2019. &nbsp;[Paper](https://adalabucsd.github.io/papers/TR_2019_TOC.pdf)
+* Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent. SIGMOD 2019, 1517-1534. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300070)
 
 * SketchML: Accelerating Distributed Machine Learning with Data Sketches. SIGMOD 2018, 1269-1284.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196894)
 
 * Compressed Linear Algebra for Large-Scale Machine Learning. PVLDB 9(12): 960-971, 2016.&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p960-elgohary.pdf)
 
 ### Linear Algebra
-* Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data. SIGMOD 2019.
+* Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data. SIGMOD 2019, 1571-1588. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3319878)
 
-* Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning. PVLDB 12(7): 807 - 821, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p807-wang.pdf)
+* Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning. PVLDB 12(7): 807-821, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p807-wang.pdf)
 
 * A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics. PVLDB 11(13): 2168-2182, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf)&nbsp;[Project](https://adalabucsd.github.io/slab.html)
 
@@ -85,9 +85,11 @@ For stand alone ML Systems, please refer to [Application](app.md).
 
 ### Specific Algorithms
 
-* Sketching Linear Classifiers over Data Streams. SIGMOD 2018: 757-772.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196930) &nbsp;[Code](https://github.com/stanford-futuredata/wmsketch)
+* PS2: Parameter Server on Spark. SIGMOD 2019: 376-388. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3314038)
 
-* DimBoost: Boosting Gradient Boosting Decision Tree to Higher Dimensions. SIGMOD 2018, 1363-1376.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196892)
+* Sketching Linear Classifiers over Data Streams. SIGMOD 2018: 757-772. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196930) &nbsp;[Code](https://github.com/stanford-futuredata/wmsketch)
+
+* DimBoost: Boosting Gradient Boosting Decision Tree to Higher Dimensions. SIGMOD 2018, 1363-1376. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196892)
 
 * Scalable Training of Hierarchical Topic Models. PVLDB 11(7), 826-839, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p826-chen.pdf)
 
@@ -95,13 +97,15 @@ For stand alone ML Systems, please refer to [Application](app.md).
 
 * Scalable Kernel Density Classification via Threshold-Based Pruning. SIGMOD 2017, 945-959.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064035)
 
+* Heterogeneity-aware Distributed Parameter Servers. SIGMOD 2017: 463-478.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3035933)
+
 * WarpLDA: a Cache Efficient O(1) Algorithm for Latent Dirichlet Allocation. PVLDB 9(10): 744-755, 2016. &nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p744-chen.pdf)
 
 * Exploiting Matrix Dependency for Efficient Distributed Matrix Computation. SIGMOD 2015: 93-105.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2723372.2723712)
 
 ### Training Data Acquisition
 
-* BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees. SIGMOD 2019.&nbsp;[Paper(arxiv)](https://arxiv.org/abs/1812.10564)
+* BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees. SIGMOD 2019: 1135-1152.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300077)
 
 * Snuba: Automating Weak Supervision to Label Training Data. PVLDB 12(3), 223-236, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p223-varma.pdf)
 
