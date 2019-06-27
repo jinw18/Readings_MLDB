@@ -2,9 +2,9 @@
 
 ## <a name='ml-app'> Machine Learning Toolkits and Specific Applications
   
-* Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations. SIGMOD 2019. &nbsp;[Paper](https://adalabucsd.github.io/papers/TR_2019_Krypton.pdf)
+* Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations. SIGMOD 2019: 1589-1606. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3319874)
   
-* DeepBase: Deep Inspection of Neural Networks. SIGMOD 2019. &nbsp;[Paper (arxiv)](https://arxiv.org/abs/1808.04486)
+* DeepBase: Deep Inspection of Neural Networks. SIGMOD 2019, 1117-1134. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300073)
 
 * MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis. SIGMOD 2018: 1285-1300.&nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196934)
 
