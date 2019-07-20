@@ -4,6 +4,10 @@ Paper list about adopting machine learning techniques into data management tasks
 For stand alone ML Systems, please refer to [Application](app.md).
 
 ## <a name='ml-in-db'> Machine Learning in Database System
+* Neo: A Learned Query Optimizer. PVLDB 2019. &nbsp;[Paper(arxiv)](https://arxiv.org/abs/1904.03711) 
+  
+* Plan-Structured Deep Neural Network Models for Query Performance Prediction. PVLDB 2019. &nbsp;[Paper(arxiv)](https://arxiv.org/abs/1902.00132)
+
 * DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models.  SIGMOD 2019, 1553-1570. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3324958)
   
 * AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.  SIGMOD 2019, 1241-1258. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3324957)
@@ -13,6 +17,8 @@ For stand alone ML Systems, please refer to [Application](app.md).
 * An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019, 415-432. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300085)
 
 * SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning. 	SIGMOD 2019, 1153-1170. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3300088)
+
+* SageDB: A Learned Database System. CIDR 2019. &nbsp;[Paper](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf)
   
 * Learning State Representations for Query Optimization with Deep Reinforcement Learning. arXiv:1803.08604  &nbsp;[Paper](https://arxiv.org/abs/1803.08604) 
 
