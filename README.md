@@ -3,6 +3,7 @@ Paper list about adopting machine learning techniques into data management tasks
 
 Other categories:
 [Application](app.md)
+
 [ML for DB](ml-for-db.md)
 
 ## <a name='scale-ml'> Large Scale Machine Learning
