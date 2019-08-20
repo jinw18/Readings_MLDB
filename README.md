@@ -1,19 +1,19 @@
 # Scalable ML and ML for Database System
 Paper list about adopting machine learning techniques into data management tasks. Mainly consider ones published in top data management venues.
 
-Other categories:
-[Application](app.md)
-
+Other categories:<br>
+[Application](app.md)<br>
 [ML for DB](ml-for-db.md)
 
 ## <a name='scale-ml'> Large Scale Machine Learning
 
 ### System for Big Data
+
+* Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers. PVLDB 12(11), 1399-1413, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p1399-koliousis.pdf)
+
 * PS2: Parameter Server on Spark. SIGMOD 2019: 376-388. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3314038)
 
 * MLlib*: Fast Training of GLMs Using Spark MLlib. ICDE 2019: 1778-1789. &nbsp;[Paper](https://ieeexplore.ieee.org/document/8731565/)
-
-* Helix: Holistic Optimization for Accelerating Iterative Machine Learning. PVLDB 12(4), 446-460, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p446-xin.pdf)
 
 * On Optimizing Operator Fusion Plans for Large-Scale Machine Learning in SystemML. PVLDB 11(12): 1755-1768, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1755-boehm.pdf)
 
@@ -21,11 +21,19 @@ Other categories:
 
 * SPOOF: Sum-Product Optimization and Operator Fusion for Large-Scale Machine Learning. CIDR 2017. &nbsp;[Paper](http://cidrdb.org/cidr2017/papers/p3-elgamal-cidr17.pdf)
 
-* KeystoneML: Optimizing pipelines for large-scale advanced analytics. ICDE 2017: 535–546. &nbsp;[Paper](https://ieeexplore.ieee.org/document/7930005)&nbsp;[Project](http://keystone-ml.org/)
-
 * SystemML: Declarative Machine Learning on Spark. PVLDB 9(13): 1425-1436, 2016.&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)&nbsp;[Project](https://systemml.apache.org/)
 
 * MLbase: A Distributed Machine-learning System. CIDR 2013.&nbsp;[Paper](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper118.pdf) &nbsp;[Project](http://mlbase.org/)
+
+### Pipeline
+
+* An Intermediate Representation for Optimizing Machine Learning Pipelines. PVLDB 12(11), 1553-1567, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p1553-kunft.pdf)
+
+* Democratizing Data Science through Interactive Curation of ML Pipelines. SIGMOD 2019, 1171-1188. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3319863)
+
+* Helix: Holistic Optimization for Accelerating Iterative Machine Learning. PVLDB 12(4), 446-460, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p446-xin.pdf)
+
+* KeystoneML: Optimizing pipelines for large-scale advanced analytics. ICDE 2017: 535–546. &nbsp;[Paper](https://ieeexplore.ieee.org/document/7930005)&nbsp;[Project](http://keystone-ml.org/)
 
 ### Compression
 
