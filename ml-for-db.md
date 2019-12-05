@@ -20,7 +20,7 @@
   
 * Learning State Representations for Query Optimization with Deep Reinforcement Learning. arXiv:1803.08604  &nbsp;[Paper](https://arxiv.org/abs/1803.08604) 
 
-* Learning to Optimize Join Queries With Deep Reinforcement Learning. arXiv:1808.03196 &nbsp;[Paper](https://arxiv.org/abs/1808.03196) &nbsp; [Blog](https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/)
+* Deep Unsupervised Cardinality Estimation. PVLDB 13(3), 279 - 292, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol13/p279-yang.pdf) &nbsp; [Blog](https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/)
 
 * Towards a Learning Optimizer for Shared Clouds. PVLDB 12(3), 210-222, 2018. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p210-wu.pdf)
 * The Case for Learned Index Structures. SIGMOD 2018: 489-504. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3183713.3196909)
