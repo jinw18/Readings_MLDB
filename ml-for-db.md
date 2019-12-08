@@ -1,4 +1,6 @@
 ## <a name='ml-for-db'> Improving Database System with Machine Learning
+  
+ Note: I would like to stop updating this category until more solid work with real system implementation appears. Since the cornerstone of ML for DB is to use ML techniques to improve the performance of *system*, it is meaningless to just write python codes to run some ML models and do simple simulation. 
 
 * ALEX: An Updatable Adaptive Learned Index. arxiv:1905.08898 &nbsp;[Paper](https://arxiv.org/abs/1905.08898)
 
