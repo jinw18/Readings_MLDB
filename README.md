@@ -17,6 +17,8 @@ Other categories:<br>
 
 * On Optimizing Operator Fusion Plans for Large-Scale Machine Learning in SystemML. PVLDB 11(12): 1755-1768, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p1755-boehm.pdf)
 
+* FlexPS: Flexible Parallelism Control in Parameter Server Architecture. PVLDB 11(5): 566-579, 2018.&nbsp;[Paper](http://www.vldb.org/pvldb/vol11/p566-huang.pdf)
+
 * A Cost-based Optimizer for Gradient Descent Optimization. SIGMOD 2017, 977-992. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3035918.3064042)
 
 * SPOOF: Sum-Product Optimization and Operator Fusion for Large-Scale Machine Learning. CIDR 2017. &nbsp;[Paper](http://cidrdb.org/cidr2017/papers/p3-elgamal-cidr17.pdf)
