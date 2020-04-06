@@ -1,8 +1,10 @@
 ## <a name='ml-for-db'> Improving Database System with Machine Learning
   
  Note: I would like to stop updating this category until more solid work with real system implementation appears. Since the cornerstone of ML for DB is to use ML techniques to improve the performance of *system*, it is meaningless to just write python codes to run some ML models and do simple simulation. 
+* SOSD: A Benchmark for Learned Indexes.  CoRR abs/1911.13014 &nbsp;[Paper][Paper](https://arxiv.org/abs/1911.13014)
+* ALEX: An Updatable Adaptive Learned Index. SIGMOD 2020 &nbsp;[Paper](https://arxiv.org/abs/1905.08898)
 
-* ALEX: An Updatable Adaptive Learned Index. arxiv:1905.08898 &nbsp;[Paper](https://arxiv.org/abs/1905.08898)
+* Learning Multi-dimensional Indexes. SIGMOD 2020 &nbsp;[Paper](https://arxiv.org/abs/1912.01668)
 
 * Neo: A Learned Query Optimizer. PVLDB 2019. &nbsp;[Paper(arxiv)](https://arxiv.org/abs/1904.03711) 
   
