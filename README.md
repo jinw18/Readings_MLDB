@@ -1,13 +1,11 @@
-# Scalable ML and ML for Database System
+# Scalable ML Systems related to Database Technologies
 Paper list about adopting machine learning techniques into data management tasks. Mainly consider ones published in top data management venues.
-
-Other categories:<br>
-[Application](app.md)<br>
-[ML for DB](ml-for-db.md)
 
 ## <a name='scale-ml'> Large Scale Machine Learning
 
 ### System for Big Data
+
+* Optimizing Machine Learning Workloads in Collaborative Environments. SIGMOD 2020, 1701-1716.
 
 * Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers. PVLDB 12(11), 1399-1413, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p1399-koliousis.pdf)
 
