@@ -4,8 +4,8 @@ Paper list about adopting machine learning techniques into data management tasks
 ## <a name='scale-ml'> Large Scale Machine Learning
 
 ### System for Big Data
-
-* Optimizing Machine Learning Workloads in Collaborative Environments. SIGMOD 2020, 1701-1716.
+* DB4ML - An In-Memory Database Kernel with Machine Learning Support. SIGMOD 2020, 159-173. &nbsp;[Paper](https://dl.acm.org/doi/10.1145/3318464.3380575)
+* Optimizing Machine Learning Workloads in Collaborative Environments. SIGMOD 2020, 1701-1716. &nbsp;[Paper](https://dl.acm.org/doi/10.1145/3318464.3389715)
 
 * Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers. PVLDB 12(11), 1399-1413, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p1399-koliousis.pdf)
 
@@ -56,7 +56,9 @@ Paper list about adopting machine learning techniques into data management tasks
 
 * Learning Generalized Linear Models Over Normalized Data. SIGMOD 2015: 1969-1984. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=2723372.2723713)
 
-### Relational DBMS
+### Rely on Database System
+* Vertica-ML: Distributed Machine Learning in Vertica Database. SIGMOD 2020, pages: 755-768. &nbsp;[Paper](https://dl.acm.org/doi/10.1145/3318464.3386137)
+
 * Declarative Recursive Computation on an RDBMS. PVLDB 12(7): 822-835, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p822-jankov.pdf)
 
 * In-Database Learning with Sparse Tensors.  PODS 2018: 325-340.  &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3196959.3196960)
