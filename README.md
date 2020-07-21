@@ -5,7 +5,10 @@ Paper list about adopting machine learning techniques into data management tasks
 
 ### System for Big Data
 * DB4ML - An In-Memory Database Kernel with Machine Learning Support. SIGMOD 2020, 159-173. &nbsp;[Paper](https://dl.acm.org/doi/10.1145/3318464.3380575)
+
 * Optimizing Machine Learning Workloads in Collaborative Environments. SIGMOD 2020, 1701-1716. &nbsp;[Paper](https://dl.acm.org/doi/10.1145/3318464.3389715)
+
+* Dynamic Parameter Allocation in Parameter Servers. PVLDB 13(11), 1877 - 1890, 2020. &nbsp;[Paper](http://www.vldb.org/pvldb/vol13/p1877-renz-wieland.pdf)
 
 * Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers. PVLDB 12(11), 1399-1413, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p1399-koliousis.pdf)
 
@@ -44,6 +47,9 @@ Paper list about adopting machine learning techniques into data management tasks
 * Compressed Linear Algebra for Large-Scale Machine Learning. PVLDB 9(12): 960-971, 2016.&nbsp;[Paper](http://www.vldb.org/pvldb/vol9/p960-elgohary.pdf)
 
 ### Linear Algebra
+
+* SPORES: Sum-Product Optimization via Relational Equality Saturation for Large Scale Linear Algebra. PVLDB 13(11), 1919 - 1932, 2020. &nbsp;[Paper](http://www.vldb.org/pvldb/vol13/p1919-wang.pdf)
+
 * Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data. SIGMOD 2019, 1571-1588. &nbsp;[Paper](https://dl.acm.org/citation.cfm?doid=3299869.3319878)
 
 * Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning. PVLDB 12(7): 807-821, 2019. &nbsp;[Paper](http://www.vldb.org/pvldb/vol12/p807-wang.pdf)
